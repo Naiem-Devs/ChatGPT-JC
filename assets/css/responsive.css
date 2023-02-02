@@ -1,0 +1,1284 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+/* ----------------------
+              Home Page Start 
+  -------------------------------------*/
+  .card_blk h2{
+    font-size: 28px;
+}
+.card_blk p{
+    height: 100px;
+}
+.mb_150.hero_v2{
+    margin-bottom: 50px;
+}
+ .menu-area nav ul li a {
+    margin-left: 25px;
+}
+  /* ----------------------
+              Home Page End 
+  -------------------------------------*/
+
+
+/* ----------------------
+               Page 1,2 Start 
+  -------------------------------------*/
+.page_nav ul li a {
+    width: 200px;
+}
+
+.page_nav {
+    margin: 50px 0;
+}
+.balance {
+    margin-right: 20px;
+}
+
+.token_page .header_user h3 {
+    font-size: 14px;
+}
+
+.token_page .header_user .toggle {
+    width: 210px;
+}
+
+.token_page .header_user .toggle i {
+    width: 50px;
+    height: 50px;
+}
+
+.balance p {
+    font-size: 14px;
+}
+
+.header_user h3 p {
+    font-size: 12px;
+}
+
+.token_page .menu-area ul {
+    margin-left: -50px;
+}
+
+/*------------ Page 2 Start------------- */
+
+.inDatails_blk {
+    padding-right: 30px;
+}
+
+/*------------ Page 4 Start------------- */
+
+.cry-img-blk {
+    flex: 0 0 30%;
+    margin: 12px 15px;
+    max-width: 300px;
+}
+
+.crypto_blk_wrp {
+    justify-content: center;
+}
+
+
+/*------------ Page 5 Start------------- */
+.card_page_wrp {max-width: 1080px;}
+
+/*------------ Page 6 Start------------- */
+.Leaderboard_mid {
+    padding: 0 30px;
+}
+p.cgp {
+    width: 100%;
+    margin-left: auto;
+}
+
+.ldm_src {
+    max-width: 550px;
+    margin: auto;
+}
+
+  /* ----------------------
+               Page 1 End 
+  -------------------------------------*/
+
+
+
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+/* ----------------------
+              Home Page Start 
+  -------------------------------------*/
+
+  .sc2_card_wrp .card_blk h2 {
+    font-size: 32px;
+}
+
+.sc2_card_wrp .card_blk {
+    padding: 50px 30px 40px;
+}
+
+.sc2_card_wrp .card_blk p {
+    height: 95px;
+}
+.technology_img {
+    max-width: 640px;
+}
+
+.product_img img {
+    width: 100%;
+}
+
+.Team_card i img {width: 100%;}
+
+.Team_card {height: auto;}
+
+.Team_card img.Team_cardBG {
+    width: 100%;
+}
+.community_left h1,.sec_title h1 {
+    font-size: 50px;
+}
+.contSc2{
+    max-width: 900px;
+}
+.hero_text h1 {
+    font-size: 60px;
+}
+
+.product_text h1 {
+    font-size: 48px;
+}
+
+.card_blk p {
+    height: 100px;
+}
+.product_text ul li a {
+    font-size: 18px;
+}
+.home_page p{
+    font-size: 17px;
+}
+  /* ----------------------
+              Home Page End 
+  -------------------------------------*/
+
+
+  /* ----------------------
+               Page 1,2 Start 
+  -------------------------------------*/
+.page_nav ul li a {
+    width: 160px;
+}
+
+.page_nav {
+    margin: 10px 0 50px;
+}
+.balance {
+    margin-top: 0px;
+    text-align: left;
+    margin-right: auto;
+    margin-left: 65px;
+}
+
+.header_user .menu {flex-direction: column-reverse;align-items: flex-end;}
+
+.token_page .header_user h3 {
+    font-size: 14px;
+}
+
+.token_page .header_user .toggle {
+    width: 210px;
+}
+
+.token_page .header_user .toggle i {
+    width: 50px;
+    height: 50px;
+}
+.balance p {
+    font-size: 14px;
+    display: inline-block;
+}
+
+.balance span {
+    display: inline-block;
+    margin-left: 4px;
+}
+
+.header_user h3 p {
+    font-size: 12px;
+}
+
+.token_page .menu-area ul {
+    margin-left: -50px;
+}
+.menu-area nav ul li a{
+    margin-left: 20px;
+}
+
+.header-area.token_page .row.align-items-center {
+    align-items: normal !important;
+}
+/*------------ Page 2 Start------------- */
+
+.inDatails_blk {
+    padding-right: 30px;
+    margin-bottom: 20px;
+}
+
+.inDatails_blk span {
+    margin-top: 20px;
+}
+
+.inDatails_right {
+    padding-left: 50px;
+}
+
+/*------------ Page 4 Start------------- */
+
+.cry-img-blk {
+    flex: 0 0 30%;
+    margin: 12px 15px;
+    max-width: 285px;
+}
+
+.crypto_blk_wrp {
+    justify-content: center;
+}
+
+
+/*------------ Page 5 Start------------- */
+.card_page_wrp {max-width: 690px;}
+
+.cgp {
+    width: 100%;
+    margin-left: auto;
+}
+
+.ldm_src {
+    max-width: 550px;
+    margin: auto;
+    margin-top: 20px;
+}
+.Leaderboard_mid{
+    padding-left: 20px;
+}
+
+.ld_list ul li a i {
+    width: 50px;
+    height: 50px;
+}
+
+.ld_list ul li a h6 {
+    font-size: 14px;
+}
+
+.ld_list ul li a h6 p {
+    font-size: 12px;
+}
+
+.ldb_mid_cont {
+    flex-wrap: wrap;
+    max-width: 300px;
+    margin: auto;
+}
+
+.ldb_mid_cont ul li a {
+    margin-bottom: 10px;
+}
+  /* ----------------------
+               Page 1 End 
+  -------------------------------------*/
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+/* ----------------------
+              Home Page Start 
+  -------------------------------------*/
+  .container{
+    padding: 0 30px;
+}
+  .sc2_card_wrp .card_blk h2 {
+    font-size: 28px;
+}
+
+.sc2_card_wrp .card_blk {
+    padding: 50px 30px 40px;
+    margin: 10px auto 20px;
+}
+
+.sc2_card_wrp .card_blk p {
+    height: 95px;
+}
+.technology_img {
+    max-width: 640px;
+}
+
+.product_img img {
+    width: 100%;
+}
+
+.Team_card i img {width: 100%;}
+
+.Team_card {height: auto;margin: 10px auto 50px;}
+
+.Team_card img.Team_cardBG {
+    width: 100%;
+}
+.community_left h1,.sec_title h1 {
+    font-size: 42px;
+}
+.hero_text h1 {
+    font-size: 42px;
+}
+
+.hero_text {
+    max-width: 600px;
+}
+
+.hero_text p {
+    font-size: 20px;
+}
+
+.product_text h1 {
+    font-size: 30px;
+}
+
+.product_img i img {
+    max-width: 350px;
+    margin: auto;
+}
+
+.row_flexD {
+    flex-direction: column-reverse;
+}
+
+.product_img {
+    text-align: center;
+}
+
+
+.product_text {
+    max-width: 470px;
+    margin: 30px auto 0;
+}
+.product_content h2 {
+    font-size: 28px;
+}
+
+.pc_mid {
+    padding: 30px 0;
+    margin: 30px 0;
+}
+
+p {
+    font-size: 18px;
+}
+
+.r_list {
+    margin-left: 0;
+}
+
+.home_page p {
+    font-size: 18px;
+}
+.community_left {
+    text-align: center;
+}
+
+.social_link {
+    text-align: center;
+    margin-top: 0;
+}
+
+.footer_nav ul li {
+    margin-left: 26px;
+}
+.sec_title {
+    margin-bottom: 30px;
+}
+
+.mb_100 {
+    margin-bottom: 70px;
+}
+
+.faq-Area .sec_title.text-center {
+    margin-bottom: 0;
+}
+.product_text ul li a {
+    font-size: 18px;
+    line-height: 1.8;
+}
+.sc_card_wrp .card_blk {
+    margin: 10px auto 20px;
+}
+.sc_card_wrp {
+    max-width: 730px;
+}
+
+.team-Area .row {
+    max-width: 775px;
+    margin: auto;
+}
+.mt_150 {
+    margin-top: 100px;
+}
+
+.mb_150 {
+    margin-bottom: 100px;
+}
+
+.hero_v2 {
+    background-size: 1227px;
+}
+  /* ----------------------
+              Home Page End 
+  -------------------------------------*/
+
+    /* ----------------------
+               Page 1,2,3 Start 
+  -------------------------------------*/
+.page_nav ul li a {
+    width: 122px;
+    height: 47px;
+}
+
+.page_nav {
+    margin: 20px 0 50px;
+}
+.balance {
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.header_user .menu {align-items: start;flex-direction: column-reverse;position: absolute;top: 26px;}
+
+.token_page .header_user h3 {
+    font-size: 14px;
+}
+
+.token_page .header_user .toggle {
+    width: 213px;
+    margin-right: 20px;
+}
+
+.token_page .header_user .toggle i {
+    width: 50px;
+    height: 50px;
+}
+.balance p {
+    font-size: 14px;
+}
+
+.header_user h3 p {
+    font-size: 12px;
+}
+
+.token_page .menu-area ul {
+    margin-left: -50px;
+}
+.menu-area nav ul li a{
+    margin-left: 20px;
+}
+.sett_blk {
+    max-width: 320px;
+}
+/*------------ Page 2 Start------------- */
+
+.inDatails_blk {
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+
+.inDatails_blk span {
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: 15px;
+}
+
+.inDatails_right {
+    padding-left: 15px;
+}
+.inDatails_blk p{
+    font-size: 15px;
+}
+
+.idb_text {
+    padding: 20px 25px;
+}
+.inDatails_right::-webkit-scrollbar{
+    width: 10px;
+}
+
+/*------------ Page 3 Start------------- */
+
+.b_token_blk i {
+    margin-bottom: 16px;
+}
+
+.b_token_blk p {
+    font-size: 14px;
+    line-height: 1.2;
+}
+
+/*------------ Page 4 Start------------- */
+
+.cry-img-blk {
+    flex: 0 0 30%;
+    margin: 12px 15px;
+    max-width: 285px;
+}
+
+.crypto_blk_wrp {
+    justify-content: center;
+}
+.R_Listed{
+    padding-left: 0;
+}
+.R_Listed ul {
+    margin-left: 40px;
+}
+.crypto_list_top {
+    flex-wrap: wrap;
+}
+
+.cry_left.cry_btn {
+    margin-bottom: 20px;
+}
+
+
+
+/*------------ Page 6 Start------------- */
+
+.cgp {
+    width: 100%;
+    margin-left: auto;
+}
+
+.ldm_src {
+    max-width: 550px;
+    margin: auto;
+    margin-top: 20px;
+}
+.Leaderboard_mid{
+    padding-left: 20px;
+}
+
+.ld_list ul li a i {
+    width: 50px;
+    height: 50px;
+}
+
+.ld_list ul li a i img {
+    width: 100%;
+    object-fit: scale-down;
+}
+
+.ld_list ul li a h6 {
+    font-size: 14px;
+}
+
+.ld_list ul li a h6 p {
+    font-size: 12px;
+}
+
+.ldb_mid_cont {
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+}
+
+.ldb_mid_cont ul {
+    width: 50%;
+}
+
+.ldb_mid_cont ul li a {
+    margin-bottom: 10px;
+}
+.Leaderboard p{
+    font-size: 16px;
+}
+.Leaderboard_left{margin-bottom: 40px;}
+
+.ld_list ul {
+    display: none;
+}
+
+.ld_list.active ul {
+    display: block;
+}
+
+.Leaderboard_left.active {
+    margin-bottom: 20px;
+}
+
+.active .S_all{
+    display: none;
+}
+
+.active .H_all{
+    display: block;
+}
+  /* ----------------------
+               Page End 
+  -------------------------------------*/
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+/* ----------------------
+              Home Page Start 
+  -------------------------------------*/
+  .hero_v2{
+    background-size: 851px;
+}
+  .sc2_card_wrp .card_blk h2 {
+    font-size: 22px;
+}
+
+.card_link {
+    margin-top: 40px;
+}
+
+.sc2_card_wrp .card_blk {
+    padding: 40px 25px 35px;
+    margin: 0px auto 15px;
+    height: auto;
+    max-width: 300px;
+}
+
+.sc2_card_wrp .card_blk svg.shape_right {
+    top: 25px;
+    right: 5px;
+}
+
+.sc2_card_wrp .card_blk p {
+    height: auto;
+}
+.technology_img {
+    max-width: 350px;
+    width: 100%;
+    top: 100px;
+}
+
+.Hero-Area {
+    height: 400px;
+}
+
+.product_img img {
+    width: 100%;
+}
+
+.Team_card i img {width: 100%;}
+
+.Team_card {height: auto;margin: 10px auto 30px;max-width: 280px;}
+
+.Team_card h4 {
+    font-size: 18px;
+}
+
+.parson_title {
+    padding-top: 18px;
+}
+
+.Team_card img.Team_cardBG {
+    width: 100%;
+}
+.community_left h1,.sec_title h1 {
+    font-size: 26px;
+}
+
+.sec_title span {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.hero_text h1 {
+    font-size: 28px;
+}
+
+.hero_text {
+    max-width: 320px;
+}
+
+.hero_text p {
+    font-size: 16px;
+    margin: 20px 0 30px;
+}
+
+.product_text h1 {
+    font-size: 28px;
+}
+
+.product_text ul {
+    margin-bottom: 30px;
+}
+
+.grp_btns a {
+    font-size: 16px;
+}
+
+.product_text p {
+    margin: 10px 0 30px;
+}
+
+.home_page p {
+    font-size: 17px;
+}
+
+.product_img i img {
+    max-width: 261px;
+    margin: auto;
+}
+
+.row_flexD {
+    flex-direction: column-reverse;
+}
+
+.product_img {
+    text-align: center;
+}
+
+h1 {}
+
+.product_text {
+    max-width: 470px;
+    margin: 30px auto 0;
+}
+.product_content h2 {
+    font-size: 20px;
+    flex: unset;
+    max-width: 100%;
+}
+
+.product_content p {
+    width: 100%;
+}
+
+.product_content {
+    flex-direction: column;
+}
+
+.pc_mid {
+    padding: 30px 0;
+    margin: 30px 0;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.3;
+}
+
+p.r_list {
+    text-align: left;
+    margin-left: 0;
+    margin-bottom: 20px !important;
+}
+.community_left {
+    text-align: center;
+}
+
+.social_link {
+    text-align: center;
+    margin-top: 0;
+}
+
+.footer_nav ul li {
+    margin-left: 26px;
+}
+.sec_title {
+    margin-bottom: 30px;
+}
+
+.mb_100 {
+    margin-bottom: 30px;
+}
+
+section {
+    padding-top: 20px;
+}
+
+.solution-Area .mb_150, .solution-Area .mt_150 {
+    margin: 40px 0;
+}
+
+.faq-Area .sec_title.text-center {
+    margin-bottom: 0;
+}
+.product_text ul li a {
+    font-size: 16px;
+    line-height: 1.3;
+}
+.sc_card_wrp .card_blk {
+    margin: 10px auto 20px;
+}
+
+.shape_right {
+    top: 11px;
+}
+
+.card_blk h2 {
+    font-size: 26px;
+}
+.sc_card_wrp {
+    max-width: 730px;
+}
+
+.team-Area .row {
+    max-width: 775px;
+    margin: auto;
+}
+.mt_150 {
+    margin-top: 60px;
+}
+
+.mb_150 {
+    margin-bottom: 60px;
+}
+.header-area{
+    padding: 10px 0 20px;
+}
+.faQ_accordion .accordion-button {
+    font-size: 16px;
+    padding: 20px 0;
+}
+
+.social_link ul li a {
+    margin-left: 10px;
+}
+
+.footer_left {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.footer_nav {
+    text-align: center;
+}
+
+.footer_nav ul li a {
+    margin-bottom: 15px;
+    display: block;
+}
+
+.accordion-body p {
+    width: 95%;
+}
+
+.faQ_accordion .accordion-button::after {
+    width: 30px;
+    height: 30px;
+}
+.faQ_accordion {
+    margin-bottom: 30px;
+}
+  /* ----------------------
+              Home Page End 
+  -------------------------------------*/
+
+  
+    /* ----------------------
+               Page 1,2,3,4,5,6 Start 
+  -------------------------------------*/
+.page_nav ul li a {
+    width: 120px;
+    height: 45px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.page_nav {
+    margin: 20px 0 50px;
+}
+
+.page_nav ul {
+    flex-wrap: wrap;
+}
+.balance {
+    margin-right: 0;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.header_user .menu {align-items: start;flex-direction: column-reverse;position: absolute;top: 30px;}
+
+.token_page .header_user h3 {
+    font-size: 14px;
+}
+
+.token_page .header_user .toggle {
+    width: 213px;
+    margin-right: 20px;
+}
+
+.token_page .header_user .toggle i {
+    width: 50px;
+    height: 50px;
+}
+.balance p {
+    font-size: 14px;
+    display: flex;
+}
+
+.balance span {margin-left: 7px;}
+
+.header_user h3 p {
+    font-size: 12px;
+}
+
+.token_page .menu-area ul {
+    margin-left: -50px;
+}
+.menu-area nav ul li a{
+    margin-left: 20px;
+}
+.sett_blk {
+    max-width: 320px;
+    flex: 0 0 100%;
+    margin: 0 auto 20px;
+}
+
+.sett_blk input::placeholder,.sett_blk textarea::placeholder {
+    font-size: 14px;
+}
+
+.sett_blk textarea {
+    height: 120px !important;
+    padding-top: 13px !important;
+}
+.logo-area a img{width: 120px;}
+ul.sett_nav li a {
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+ul.sett_nav li a.active {
+    padding: 7px 20px;
+}
+
+ul.sett_nav li i {
+    font-size: 13px;
+}
+.sett_blk label, .sett_file label {
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.Upload_btn_input label {
+    margin-bottom: 0;
+}
+
+.Upload_btn_input label span {
+    font-size: 14px;
+    margin: 4px 0;
+}
+
+.dropOne-a li span, 
+.dropOne-select-box li span, 
+.dropTwo-a li span, 
+.dropTwo-select-box li span, 
+.dropThree-a li span, 
+.dropThree-select-box li span, 
+.dropFour-a li span, 
+.dropFour-select-box li span {
+    font-size: 14px;
+}
+
+.sett_file p {
+    margin-top: 0;
+}
+
+.sett_file {
+    max-width: 320px;
+    margin: auto;
+}
+
+.sett_btn {
+    margin-top: 0px !important;
+}
+
+.inDatails_left .sett_btn {
+    margin: auto;
+}
+
+.inD_row {
+    flex-direction: column-reverse;
+}
+a.sty_btn {
+    padding: 15px 70px;
+    font-size: 15px;
+}
+
+/*------------ Page 2 Start------------- */
+
+.inDatails_blk {
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+
+.inDatails_blk span {
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: 15px;
+}
+
+.inDatails_right {
+    padding-left: 10px;
+    max-height: 320px;
+    max-width: 450px;
+    margin: auto;
+    margin-bottom: 39px;
+}
+.inDatails_blk p{
+    font-size: 15px;
+}
+
+.idb_text {
+    padding: 20px 25px;
+}
+.inDatails_right::-webkit-scrollbar{
+    width: 10px;
+}
+/*------------ Page 3 Start------------- */
+.builder-area{
+    margin-bottom: 40px;
+}
+.b_token_wrp {
+    flex-wrap: wrap;
+    margin: 10px 0 30px;
+}
+
+.b_token_blk {
+}
+
+.builder_title h3 {
+    font-size: 28px;
+}
+
+.builder_title p {
+    font-size: 16px;
+}
+
+.builder_title {
+    margin-top: 30px;
+    max-width: 350px;
+}
+/*------------ Page 4 Start------------- */
+
+.cry-img-blk {
+    flex: unset;
+    margin: 12px 0px;
+    max-width: 285px;
+    width: 100%;
+}
+
+.cry-img-blk img {
+    width: 100%;
+}
+
+.crypto_blk_wrp {
+    justify-content: center;
+}
+.R_Listed{
+    padding-left: 0;
+    flex-direction: column;
+}
+.R_Listed ul {
+    margin-left: 0;
+}
+.crypto_list_top {
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 300px;
+    margin: 20px auto 40px;
+}
+
+.cry_left.cry_btn {
+    margin-bottom: 20px;
+}
+
+.cry_btn {
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+}
+.cry_mid {flex-wrap: wrap;justify-content: space-between;}
+
+.src_input {
+    margin: 15px 0;
+}
+
+.cry_btn button {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+.cry-img-blk ul li p img {
+    left: -30px;
+}
+.crypto_table table td {
+    height: auto;
+    font-size: 14px;
+}
+
+.crypto_table table td.td_one {
+    width: 180px;
+    transform: translateY(10px);
+}
+
+.crypto_table table td.td_four {
+    transform: translateY(-5px);
+}
+
+.crypto_table table td.td_eit {
+    transform: translateY(10px);
+}
+
+.crypto_table td p {
+    font-size: 14px;
+}
+.crypto_table table {
+    min-width: 1401px;
+}
+/*------------ Page 5 Start------------- */
+
+.card_page_wrp .card_blk {
+    width: 300px;
+}
+
+.card_page_wrp .card_blk p {
+    font-size: 16px;
+}
+.card_page_wrp .card_blk:after{
+    top: 10px;
+}
+section.card_page .page_nav {
+    margin-bottom: 15px;
+}
+
+
+/*------------ Page 6 Start------------- */
+
+.cgp {
+    width: 100%;
+    margin-left: auto;
+}
+
+.ldm_src {
+    max-width: 550px;
+    margin: auto;
+    margin-top: 20px;
+}
+.Leaderboard_mid{
+    padding-left: 20px;
+}
+
+.Leaderboard_mid .lm_blk:first-child {flex-direction: unset;align-items: center;}
+
+.Leaderboard_mid .lm_blk:first-child p {
+    margin-top: 0;
+}
+
+.ld_list ul li a i {
+    width: 50px;
+    height: 50px;
+}
+
+.ld_list ul li a i img {
+    width: 100%;
+    object-fit: scale-down;
+}
+
+.ld_list ul li a h6 {
+    font-size: 14px;
+}
+
+.ld_list ul li a h6 p {
+    font-size: 12px;
+}
+
+.ldb_mid_cont {
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+}
+
+.ldb_mid_cont ul {margin: 20px 0;}
+
+.ldb_mid_cont ul li a {
+    margin-bottom: 6px;
+    padding: 5px;
+}
+.Leaderboard p{padding-right: 0;margin-top: 15px;}
+.Leaderboard_left.active{
+    margin-bottom: 40px;
+}
+
+.ld_list ul {
+    display: none;
+}
+
+.ld_list.active ul {
+    display: block;
+}
+
+.Leaderboard_left {
+    margin-bottom: 20px;
+}
+
+.active .S_all{
+    display: none;
+}
+
+.active .H_all{
+    display: block;
+}
+.lr_iner{
+    display: block !important;
+}
+
+.Leaderboard_right {
+    margin-bottom: 40px;
+    margin-left: unset;
+}
+.lm_blk {
+    flex-direction: column;
+    position: relative;
+}
+
+.likes_btn {
+    margin-left: auto;
+    margin-top: 20px;
+    position: absolute;
+    bottom: -30px;
+    right: 15px;
+}
+  /* ----------------------
+               Page 1 End 
+  -------------------------------------*/
+ 
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.Leaderboard .container-fluid{
+    max-width: 450px;
+}
+
+.container-fluid.pnv {
+    max-width: 100%;
+}
+.Leaderboard_mid .lm_blk{flex-direction: unset;}
+
+.Leaderboard p {
+    margin-top: 0;
+}
+.cry-img-blk {
+    margin: 10px;
+}
+ 
+}
